@@ -7,7 +7,7 @@ blockchain
 
 ### Current functionality
 
-####The software provides:
+#### The software provides:
 
 1. Wallet Creation (with a unique private and public key)
 2. Block mining
