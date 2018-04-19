@@ -9,10 +9,10 @@ blockchain
 
 #### The software provides:
 
-1. Wallet Creation (with a unique private and public key)
-2. Block mining
-3. Fund/Coin transfer to another wallet
-4. Blockchain validation
+- Wallet Creation (with a unique private and public key)
+- Block mining
+- Fund/Coin transfer to another wallet
+- Blockchain validation
 
 ### Requirements
 
